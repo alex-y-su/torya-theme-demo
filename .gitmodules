@@ -1,0 +1,3 @@
+[submodule "themes/torya"]
+	path = themes/torya
+	url = https://github.com/edyatl/torya-theme.git

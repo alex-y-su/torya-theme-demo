@@ -1,0 +1,37 @@
+gallery:
+  enable: true
+  title: мои работы
+  subtitle: ""
+  gallerylItem:
+    - title: Fading Light
+      image: https://torya.art/assets/img/portfolio/9-image.jpg
+      content: "Classic view from Rigwood Jetty on Coniston Water an old archive 
+        shot similar to an old post but a little later on."
+    - title: Fading Light
+      image: https://torya.art/assets/img/portfolio/6-image.jpg
+      content: "Classic view from Rigwood Jetty on Coniston Water an old archive 
+        shot similar to an old post but a little later on."
+    - title: Fading Light
+      image: https://torya.art/assets/img/portfolio/8-image.jpg
+      content: "Classic view from Rigwood Jetty on Coniston Water an old archive 
+        shot similar to an old post but a little later on."
+    - title: Fading Light
+      image: https://torya.art/assets/img/portfolio/5-image.jpg
+      content: "Classic view from Rigwood Jetty on Coniston Water an old archive 
+        shot similar to an old post but a little later on."
+    - title: Fading Light
+      image: https://torya.art/assets/img/portfolio/7-image.jpg
+      content: "Classic view from Rigwood Jetty on Coniston Water an old archive 
+        shot similar to an old post but a little later on."
+    - title: Fading Light
+      image: https://torya.art/assets/img/portfolio/3-image.jpg
+      content: "Classic view from Rigwood Jetty on Coniston Water an old archive 
+        shot similar to an old post but a little later on."
+    - title: Fading Light
+      image: https://torya.art/assets/img/portfolio/4-image.jpg
+      content: "Classic view from Rigwood Jetty on Coniston Water an old archive 
+        shot similar to an old post but a little later on."
+    - title: Fading Light
+      image: https://torya.art/assets/img/portfolio/1-image.jpg
+      content: "Classic view from Rigwood Jetty on Coniston Water an old archive 
+        shot similar to an old post but a little later on."
