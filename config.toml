@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = '/'
+baseURL = 'https://edyatl.github.io/torya-theme-demo/'
 languageCode = 'ru'
 title = 'Torya - роспись, барельеф, аэрография | Hugo Site'
 theme = "torya"
