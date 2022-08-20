@@ -3,25 +3,25 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/about/</loc>
+    <loc>https://edyatl.github.io/torya-theme-demo/about/</loc>
     <lastmod>2022-08-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/contact/</loc>
+    <loc>https://edyatl.github.io/torya-theme-demo/contact/</loc>
     <lastmod>2022-08-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>https://edyatl.github.io/torya-theme-demo/categories/</loc>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>https://edyatl.github.io/torya-theme-demo/tags/</loc>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>https://edyatl.github.io/torya-theme-demo/</loc>
   </url>
   
 </urlset>
