@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Torya - роспись, барельеф, аэрография | Hugo Site</title>
+    <link>/</link>
+    <description>Recent content on Torya - роспись, барельеф, аэрография | Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>история</title>
+      <link>/about/</link>
+      <pubDate>Sat, 20 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>история Рисую с детства. Художественное и дизайнерское образование.
+С 16 года роспись стен и аэрография на авто для меня - основной вид деятельности.
+Умею оценивать сложность и сроки выполнения проектов и укладываться в них.
+Подбираю варианты росписи подходящие для интерьера. Профессионально консультирую на всех этапах. Владею специализированным оборудованием для визуализации результата до начала работ.
+Работаю с улыбкой, вкладываю душу. Фигню рисую только если очень настаивать.</description>
+    </item>
+    
+    <item>
+      <title>соц сети</title>
+      <link>/contact/</link>
+      <pubDate>Sat, 20 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/contact/</guid>
+      <description>соц сети </description>
+    </item>
+    
+  </channel>
+</rss>
